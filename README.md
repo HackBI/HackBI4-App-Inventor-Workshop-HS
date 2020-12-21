@@ -24,6 +24,13 @@ This workshop's goal is to help participants create an app that assesses the use
 2. Make a label under the progress bar that shows the percentage of answers the user has answered. To do this challenge, you will need the totalAnsweredQuestions variable, the totalQuestions variable, a division block, and a multiplication block. 
 3. Make a different picture show up for each question. To be able to use pictures in your app, you need to enter the Designer and click the “Upload File” button under the Media section. To do this challenge, you will need to make a list of text strings, call it “pictureList”, and give each text string an image’s file name (ie. “dogPicture.png”). You will also need the block that says “set Image.picture to”.
 
+## Resources For Further Learning
+
+1. http://www.appinventor.org/book2	App Inventor 2’s free online book that walks you through exercises. This book teaches you a wide variety of skills that will allow you to create engaging phone applications.
+2. http://appinventor.mit.edu/explore/ai2/tutorials. This links to MIT App Inventor's list of tutorials for more exercises. 
+3.http://appinventor.mit.edu/explore/app-building-guides. This links to a collection of pre-made apps that are not completely finished. These pre-made apps provide step-by-step guides on how to finish creating them. 
+
+
 ![alt text](https://github.com/HackBI/Workshop-Template-Hack-BI-IV/blob/master/download.jpg  "Logo 1")
 
 
