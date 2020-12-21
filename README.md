@@ -17,7 +17,7 @@ This workshop's purpose is to teach participants:
 5. How to use lists and how to nest a list inside another list
 6. How to use List Pickers to create multiple choice quizzes
 
-and other skills
+In addition to other skills
 
 ## Goal
 This workshop's goal is to help participants create an multiple choice quiz application that assesses the user’s knowledge of the internet and tells the user which of his answers are correct or incorrect. 
