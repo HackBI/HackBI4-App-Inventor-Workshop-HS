@@ -30,7 +30,3 @@ This workshop's goal is to help participants create an app that assesses the use
 2. http://appinventor.mit.edu/explore/ai2/tutorials. This links to MIT App Inventor's list of tutorials for more exercises. 
 3.http://appinventor.mit.edu/explore/app-building-guides. This links to a collection of pre-made apps that are not completely finished. These pre-made apps provide step-by-step guides on how to finish creating them. 
 
-
-![alt text](https://github.com/HackBI/Workshop-Template-Hack-BI-IV/blob/master/download.jpg  "Logo 1")
-
-
