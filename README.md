@@ -15,9 +15,12 @@ This workshop's purpose is to teach participants:
 3. How to store and access values using TinyDB
 4. How to create and use a procedure to make code easier to understand
 5. How to use lists and how to nest a list inside another list
+6. How to use List Pickers to create multiple choice quizzes
+
+and other skills
 
 ## Goal
-This workshop's goal is to help participants create an app that assesses the user’s knowledge of the internet and tells the user which of his answers are correct or incorrect. 
+This workshop's goal is to help participants create an multiple choice quiz application that assesses the user’s knowledge of the internet and tells the user which of his answers are correct or incorrect. 
 
 ## Challenges
 1. Create a “Return to Home” button that will allow the user to return to Screen1 (the opening screen) when the current question index is greater than the length of the question list.
