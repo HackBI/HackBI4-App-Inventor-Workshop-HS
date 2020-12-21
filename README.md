@@ -20,7 +20,7 @@ This workshop's purpose is to teach participants:
 In addition to other skills
 
 ## Goal
-This workshop's goal is to help participants create an multiple choice quiz application that assesses the user’s knowledge of the internet and tells the user which of his answers are correct or incorrect. 
+This workshop's goal is to help participants create a multiple choice quiz application that assesses the user’s knowledge of the internet and tells the user which of his answers are correct or incorrect. 
 
 ## Challenges
 1. Create a “Return to Home” button that will allow the user to return to Screen1 (the opening screen) when the current question index is greater than the length of the question list.
