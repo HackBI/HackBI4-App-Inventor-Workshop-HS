@@ -3,6 +3,7 @@
 ## Get Started
 1. Go to http://ai2.appinventor.mit.edu on the internet
 2. Create a google account or sign in using a google account you already have
+3. Download the emulator by following the steps listed here: https://appinventor.mit.edu/explore/ai2/setup-emulator.html
 
 ## Uses
 App Inventor 2 is used to create applications that can be used on phones.
