@@ -32,5 +32,8 @@ This workshop's goal is to help participants create a multiple choice quiz appli
 
 1. http://www.appinventor.org/book2	App Inventor 2’s free online book that walks you through exercises. This book teaches you a wide variety of skills that will allow you to create engaging phone applications.
 2. http://appinventor.mit.edu/explore/ai2/tutorials. This links to MIT App Inventor's list of tutorials for more exercises. 
-3. http://appinventor.mit.edu/explore/app-building-guides. This links to a collection of pre-made apps that are not completely finished. These pre-made apps provide step-by-step guides on how to finish creating them. 
+3. http://appinventor.mit.edu/explore/app-building-guides. This links to a collection of pre-made apps that are not completely finished. These pre-made apps provide step-by-step guides on how to finish creating them.
+
+## Final App
+To see what the app looks like once you've correctly done all the challenges, see the .aia file in this repository.  
 
